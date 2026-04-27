@@ -9,3 +9,8 @@ Generate watermarked images for the images in the dataset using a watermarking m
 
 ## 3. Attack
 Run the `/method/attack_ImageNet.py` file to generate attacked images.
+
+## Attention!
+diffusers                    0.21.4
+torch                        2.1.0+cu118
+huggingface-hub              0.24.5
